@@ -1,2 +1,1 @@
-# Jaumebalmes
-Activitats Jaume balmes .
+hola
